@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:jibWp2XKLcKFcpJO@sattisauda.c3zuijf.mongodb.net/?retryWrites=true&w=majority&appName=sattisauda",
+    "secretKey" : "mern-secret-key"
+}
